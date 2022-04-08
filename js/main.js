@@ -32,8 +32,6 @@ function changeCursor() {
   const follower = document.querySelector('.follower');
   const links = document.querySelectorAll('.links');
 
-
-
   let posX = 0,
       posY = 0;
 
